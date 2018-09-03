@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "@zkrhm"
+theme = "hyde-hyde"
+highlightjs = true
+highlightjsstyle="Vs 2015"
+highlightjslanguages = ["go"]
+disqusShortname = "zkrhm"
+
+[params]
+description = 'Microblog, Programming, Rant'
+
+[params.social]
+
+twitter = 'zkrhm'
+github = 'zkrhm'
